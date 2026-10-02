@@ -1,6 +1,7 @@
-# 🙌🏼 Hi, I’m Kishor !!
-- 💡 As a seasoned professional in the DevSecOps/Site-Reliability field, my approach is rooted in a deep understanding of both development and operations, allowing me to bridge the gap between teams and drive continuous & impactful improvements in application lifecycle management.
-- 🗺️ Embarking on a journey towards automation, scalability and reliability!!
+# 🙌🏼 Hi, I’m Kishor K !!
+- 💡 As a seasoned professional in the DevSecOps/Site-Reliability field, my approach is rooted in a deep understanding of both development and operations, with security as a core principle throughout the engineering lifecycle, allowing me to bridge the gap between teams and drive continuous & impactful improvements in application lifecycle management.
+- 🗿 My experience spans EKS/ECS, CI/CD, Terraform, GitOps and cloud infrastructure, with a strong focus on integrating security into CI/CD through policy based security gates, SAST, SCA, DAST, secret and container scanning, maintaining security controls aligned with compliance requirements such as ISO 27001 and PCI-DSS.
+- 🗺️ Embarking on a journey towards automation, Security, Scalability and Reliability!!
 - 🤝🏻 Open to meeting new people, exchanging ideas, sharing experiences, participating and volunteering in the community, and attending conferences and meetups.
 
 # 🌏 Global Certifications
